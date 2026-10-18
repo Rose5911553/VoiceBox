@@ -1,0 +1,11 @@
+{
+    "display_name": "语音盒 VoiceBox",
+    "loading_order": 100,
+    "requires": [],
+    "optional": ["tts"],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Rose",
+    "version": "1.0.0",
+    "homePage": ""
+}

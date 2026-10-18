@@ -3,9 +3,8 @@
     "loading_order": 100,
     "requires": [],
     "optional": ["tts"],
-    "js": "index.js",
-    "css": "style.css",
+    "js": "voicebox.js",
     "author": "Rose",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "homePage": ""
 }
